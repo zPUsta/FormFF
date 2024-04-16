@@ -1,0 +1,39 @@
+#open{
+    font-size: 25px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    width: 35px;
+    height: 40px;
+    background-color: rgb(13, 186, 13);
+}
+
+table { 
+    width: 50%; 
+    border-collapse: collapse; 
+    border: 1px solid #100808; 
+ 
+} 
+
+th, 
+tr, td { 
+    padding: 10px; 
+    border: 2px solid black; 
+    align-items: center;
+
+} 
+
+.remove_btn{
+    background-color: red;
+    padding: 3px 8px;
+    color: aliceblue;
+    border-style: none;
+    margin: 5px;
+}
+
+
+#add{
+    background-color: rgb(26, 205, 38);
+    padding: 3px 8px;
+    border-style: none;
+    color: aliceblue;
+}
